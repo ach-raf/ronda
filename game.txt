@@ -1,0 +1,217 @@
+board [[cup, 3]]
+current suit :  cup
+current number :  3
+player one  [[club, 10], [club, 4], [sword, 3], [cup, 12], [cup, 10]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :4
+[cup, 12]
+===========
+
+board [[cup, 3], [cup, 12]]
+current suit :  cup
+current number :  12
+===========
+
+player two  [[club, 3], [sword, 6], [cup, 11], [club, 6], [cup, 1]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :5
+[cup, 1]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1]]
+current suit :  cup
+current number :  12
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3], [cup, 10]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :4
+[cup, 10]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10]]
+current suit :  cup
+current number :  10
+===========
+
+player two  [[club, 3], [sword, 6], [cup, 11], [club, 6]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :3
+[cup, 11]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11]]
+current suit :  cup
+current number :  11
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [cup, 5] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11]]
+current suit :  cup
+current number :  11
+===========
+
+player two  [[club, 3], [sword, 6], [club, 6]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [gold, 11] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11]]
+current suit :  cup
+current number :  11
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3], [cup, 5]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :4
+[cup, 5]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5]]
+current suit :  cup
+current number :  5
+===========
+
+player two  [[club, 3], [sword, 6], [club, 6], [gold, 11]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [sword, 10] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5]]
+current suit :  cup
+current number :  5
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [club, 1] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5]]
+current suit :  cup
+current number :  5
+===========
+
+player two  [[club, 3], [sword, 6], [club, 6], [gold, 11], [sword, 10]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [gold, 5] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5]]
+current suit :  cup
+current number :  5
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3], [club, 1]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [club, 11] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5]]
+current suit :  cup
+current number :  5
+===========
+
+player two  [[club, 3], [sword, 6], [club, 6], [gold, 11], [sword, 10], [gold, 5]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :6
+[gold, 5]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5]]
+current suit :  gold
+current number :  5
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3], [club, 1], [club, 11]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [gold, 12] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5]]
+current suit :  gold
+current number :  5
+===========
+
+player two  [[club, 3], [sword, 6], [club, 6], [gold, 11], [sword, 10]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :4
+[gold, 11]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11]]
+current suit :  gold
+current number :  11
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3], [club, 1], [club, 11], [gold, 12]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :5
+[club, 11]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11]]
+current suit :  club
+current number :  11
+===========
+
+player two  [[club, 3], [sword, 6], [club, 6], [sword, 10]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :1
+[club, 3]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11], [club, 3]]
+current suit :  club
+current number :  3
+===========
+
+player one  [[club, 10], [club, 4], [sword, 3], [club, 1], [gold, 12]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :3
+[sword, 3]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11], [club, 3], [sword, 3]]
+current suit :  sword
+current number :  3
+===========
+
+player two  [[sword, 6], [club, 6], [sword, 10]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :3
+[sword, 10]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11], [club, 3], [sword, 3], [sword, 10]]
+current suit :  sword
+current number :  10
+===========
+
+player one  [[club, 10], [club, 4], [club, 1], [gold, 12]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [sword, 11] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11], [club, 3], [sword, 3], [sword, 10]]
+current suit :  sword
+current number :  10
+===========
+
+player two  [[sword, 6], [club, 6]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :1
+[sword, 6]
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11], [club, 3], [sword, 3], [sword, 10], [sword, 6]]
+current suit :  sword
+current number :  6
+===========
+
+player one  [[club, 10], [club, 4], [club, 1], [gold, 12], [sword, 11]]
+player One turn : write the index of the card you wanna play and 0 to draw a card :0
+adding [sword, 2] to your hand
+===========
+
+board [[cup, 3], [cup, 12], [cup, 1], [cup, 10], [cup, 11], [cup, 5], [gold, 5], [gold, 11], [club, 11], [club, 3], [sword, 3], [sword, 10], [sword, 6]]
+current suit :  sword
+current number :  6
+===========
+
+player two  [[club, 6]]
+player Two turn : write the index of the card you wanna play and 0 to draw a card :1
+[club, 6]
+player Two WINS

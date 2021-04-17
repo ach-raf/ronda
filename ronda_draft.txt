@@ -1,0 +1,30 @@
+The deck consists of 40 cards and 4 suits (swords, coins, cups, batons) , the numbers goes from 1 to 7 and then jumps to 10 and continue to 12.
+4 players compete in 2 teams, each member facing his teammate in a round way.
+the first to deal is chosen by passing cards to each player and the first to get the card number 12 (doesn't matter the suit) start dealing.
+the first round, 4 cards are dealt face down to each player, after the first round only 3 cards are dealt.
+the goal is to collect points, in order to do that, each player must throw a card each turn.
+the first player to throw a card is on the right side of the dealer, at this point there is no cards on the board so nothing can be done.
+after that each player must try to "eat" cards, meaning, you throw a card with the same number on a card on the board, and add them both afterwards to your collections of cards you ate, you can also eat the following numbers of the cards you ate if they are available at the board.
+example:
+player = [3, cups], [6, batons]
+board = [6, coins], [7, swords], [10, batons], [4, cups]
+if player throws card number 6 he/she can eat 6, 7 , 10 from the board.
+
+to keep track of the result, we create from any item laying around 6 pawns, mostly rolled pieces of paper (1 point each), and 5 ropes (5 pawns = 1 rope) we use a pen for those or something of sorts.
+after the last round, each team count their tally of eaten cards during the turn and every card above 20 is counted as 1 point.
+and the next one on the right start dealing and repeating the same thing.
+
+for the special rules:
+-if you have 2 cards with the same number, you say "Ronda" and you get 1 point (pawn)
+--if other players also call Ronda you have to wait and see who have the biggest number and that player win a point for each Ronda on that turn.
+---if you have 3 cards with the same number its called "Tringa" you get 5 points and you can win every Ronda no matter the number (5 points for Tringa and each Ronda gives you a point), same rule for a tie break as having a Ronda.
+-if you can eat the card thrown by the immediate previous player it's called a 'hit' and you gain 1 point (pawn) in addition to the cards eaten.
+--f the player after you have the same card number the chain continues and he takes the cards and 5 points (1 rope), and the same for the next player and the reward is 10 points (2 ropes).
+-if you eat the last card on the board it's called "Missa" and you get 1 point.
+
+the winning condition is the first team to collect 81 points.
+after collecting as a team 40 points (4 ropes) it's called "the small push" and you return the ropes to the game, an additional point and it's called the "big push".
+after that you need 4 ropes to win the game.
+the last point can't be won by "eating" cards or "Ronda" or "Tringa", it must be a "hit" or eating the last card on the board "Missa".
+
+
